@@ -8,7 +8,7 @@ Front-End Developer & Teacher
 * 🖥️  See my portfolio at [bekam.dev](http://bekam.dev)
 * ✉️  You can contact me at [makharoblishvilibeka@gmail.com](mailto:makharoblishvilibeka@gmail.com)
 * 🧠  I'm learning Nestjs
-* 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer.
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer.
 
 ### Skills
 
