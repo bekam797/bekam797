@@ -4,11 +4,15 @@ Hi 👋 My name is Beka Makharoblishvili
 Front-End Developer & Teacher
 -----------------------------
 
-*   🌍  I'm based in Tbilisi
-*   🖥️  See my portfolio at [bekam.dev](http://bekam.dev)
-*   ✉️  You can contact me at [makharoblishvilibeka@gmail.com](mailto:makharoblishvilibeka@gmail.com)
-*   🧠  I'm learning Nestjs
-*   🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer.### Skills 
+* 🌍  I'm based in Tbilisi
+* 🖥️  See my portfolio at [bekam.dev](http://bekam.dev)
+* ✉️  You can contact me at [makharoblishvilibeka@gmail.com](mailto:makharoblishvilibeka@gmail.com)
+* 🧠  I'm learning Nestjs
+* 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer.
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -26,14 +30,8 @@ Front-End Developer & Teacher
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.linkedin.com/in/beka-makharoblishvili/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.polywork.com/beka_makharoblis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/bekamakhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/beka-makharoblishvili/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/beka_makharoblis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bekamakhar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
